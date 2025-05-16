@@ -1,0 +1,83 @@
+h1 {
+    background-color: #cfebf8;
+    color: #350470;
+    padding: 20px;
+    text-decoration: underline;
+    text-align: center;
+    width: 500px;
+    margin:  25px auto;
+    font-family: Garamond, serif;
+    font-size: 50px;
+    border: 5px solid #0d24a7;
+}
+
+h2 {
+    background-color: #cfebf8;
+    color: #350470;
+    padding: 20px;
+    width: 300px;
+    margin:  25px auto;
+    font-family: Garamond, serif;
+    font-size: 30px;
+    border: 5px solid #0d24a7;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+    text-align: justify;
+}
+
+.centre {
+    text-align: center;
+}
+
+.accueil {
+    color: red;
+    background-color: #84c7cb;
+    padding: 10px 20px;
+    border: 2px black solid;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+    margin: auto;
+}
+
+.liens {
+    font-family: "Courier New", monospace;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+.liens li {
+    text-align: center;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+img {
+    margin: 30px auto;
+    border: 4px black solid;
+}
+
+.texte {
+    padding: 20px;
+    border: 2px solid red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 800px;
+    margin: auto;
+}
+
+.ingredients {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    margin: auto;
+    width: 500px;
+    padding: 20px 50px;
+}
